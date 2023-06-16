@@ -1,4 +1,9 @@
-# GongDongJang: Co-purchase apps
+# 공동장: 신선식품 공동구매
+![image](https://github.com/Gongdongjang/consumer_client/assets/86403488/ae8470a3-7416-481f-8451-8545cc33522a)
+
+## 앱 소개
+제로 웨이스트 실천이 가능한 신선 식품 공동구매 플랫폼!
+장을 보고 나면 생기는 많은 양의 쓰레기를 줄이기 위해 공동구매 형식으로 식품을 판매합니다. 제로 웨이스트 장보기 뿐만 아니라 친환경적인 제철 농산물로 건강한 식습관을 가질 수 있도록 하고, 지역 상권을 활성화하고자 하는 목표를 가지고 있습니다. 소비자가 공동장을 통해 공동 구매하여 일정 인원을 넘으면 농부는 예정된 재배 날짜에 맞춰 수확 후 소매업자에게 배송합니다. 소비자는 픽업 시, 본인의 용기를 사용하거나 소매업자에게 배치된 친환경 패키지를 구매하여 제로 웨이스트를 실현합니다. 장 볼 때 발생하는 많은 쓰레기들을 공동장과 함께 줄여봅시다!
 
 ### 📜 Service contents
 It is a collaborative fresh food shopping app that practices zero waste by reducing individual delivery to reduce disposable waste.
@@ -15,6 +20,8 @@ The main functions provided by the consumer service are as follows.
 - Mypage
 
 ### 🖥 Developments
+
+I planned a project, designed architecture, implemented it in a proof-of-concept as a team leader.
 
 I developed features for
 - Kakao Login, Kakao Map API
